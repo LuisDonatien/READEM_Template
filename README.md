@@ -6,7 +6,7 @@ mechanisms to support adaptive fault-tolerant execution. The accelerator platfor
 The block diagram below shows the EROS Safe Accelerator Platform.
 
 
-
+![](https://github.com/LuisDonatien/READEM_Template/blob/main/images/General_Platform.svg)
 
 # Repository folder structure
 
