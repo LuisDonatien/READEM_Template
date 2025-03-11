@@ -13,7 +13,8 @@ The block diagram below shows the EROS Safe Accelerator Platform.
     .
     ├── .github/workflows
     ├── data
-    ├── fpga    
+    ├── fpga   
+    ├── images    
     ├── ip
     ├── rtl
     │   └── include   
